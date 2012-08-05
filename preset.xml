@@ -1,0 +1,22 @@
+<presets author="pnorman" version="1">
+	<group name="Sources">
+		<group name="DataBC Imagery">
+			<item name="DataBC bc_gvrd_west_2009">
+				<key key="source" value="DataBC bc_gvrd_west_2009" />
+			</item>
+			<item name="DataBC bc_gvrd_east_2009">
+				<key key="source" value="DataBC bc_gvrd_east_2009" />
+			</item>
+			<item name="DataBC bc_bowen_2009">
+				<key key="source" value="DataBC bc_bowen_2009" />
+			</item>
+			<item name="DataBC bc_sea_2_sky_2009">
+				<key key="source" value="DataBC bc_sea_2_sky_2009" />
+			</item>
+			<item name="DataBC bc_whistler_2009">
+				<key key="source" value="DataBC bc_whistler_2009" />
+			</item>
+		
+		</group>
+	</group>
+</presets>
